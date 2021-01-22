@@ -1,4 +1,4 @@
-<b>A partir do código desenvolvido em sala:<b>
+<b>A partir do código desenvolvido em sala:</b>
 
 <br>
 
@@ -6,11 +6,11 @@ Refatore o código para que seja possível alugar mais de um Filme;
 
 Garanta a corretude do código rodando os testes unitários;
 
-Corrija os testes que quebrarem;
+Corrija os testes que quebrarem.
 
 <br><br>
 
-<b>Usando TDD, aplique descontos sucessivos ao Filmes alugados:<b>
+<b>Usando TDD, aplique descontos sucessivos ao Filmes alugados:</b>
 
 <br>
 
@@ -22,4 +22,4 @@ Corrija os testes que quebrarem;
 
 100% no sexto Filme;
 
-Usando TDD, refatore seu código para que a data de devolução não ocorra em um domingo;
+Usando TDD, refatore seu código para que a data de devolução não ocorra em um domingo.
